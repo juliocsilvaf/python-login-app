@@ -1,6 +1,6 @@
 # 🔐 Python Login Application
 
-Academic project developed as part of the **Certificate III in Information Technology** at **TAFE NSW** (Sydney, Australia).
+Academic project developed as part of the **Certificate IV in Information Technology** at **TAFE NSW** (Sydney, Australia).
 
 A console-based login application built in Python that handles user registration, authentication and account display — storing credentials in a text file.
 
